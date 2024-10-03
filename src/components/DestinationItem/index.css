@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.list-container {
+  list-style-type: none;
+}
+.image-style {
+  height: 180px;
+  width: 240px;
+  margin-left: 20px;
+}
+.description {
+  color: black;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 15px;
+  padding-left: 20px;
+}
